@@ -13,8 +13,11 @@ Half-of-the-internet is in your computer already? Cool! Go to step 5.
 
 NOTICE!!!
 No "every-second loading" is setted now. To set so (gonna lag, i told you), open src/index.tsx file in your editor, then:
+
 uncomment line 19;
 
 comment line 20;
+
+
 
 Yay! You're good to go!
