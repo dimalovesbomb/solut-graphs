@@ -2,7 +2,7 @@
 Task for solut (?)
 
 1. $ git clone 
-2. $ cd solut-graphs
+2. $ cd solut front
 3. $ npm install
 
 While installing half-of-the-internet, run this java stuff (stend-0.0.1-SNAPSHOT.war).
