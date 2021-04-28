@@ -6,13 +6,12 @@ Task for solut (?)
 3. $ npm install
 
 While installing half-of-the-internet, run this java stuff (stend-0.0.1-SNAPSHOT.war).
+Half-of-the-internet is in your computer already? Cool! Go to step 4.
 
-Half-of-the-internet is in your computer already? Cool! Go to step 5.
+4. $ npm start  <--- !!!STEP 4 IS HERE!!!
 
-5. $ npm start  <--- !!!STEP 5 IS HERE!!!
-
-NOTICE!!!
-No "every-second loading" is setted now. To set so (gonna lag, i told you), open src/index.tsx file in your editor, then:
+**NOTICE!!!**
+*No "every-second loading" is setted now. To set so (gonna lag, i told you), open src/index.tsx file in your editor, then:*
 
 - uncomment line 19;
 - comment line 20;
