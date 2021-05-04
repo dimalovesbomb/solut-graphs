@@ -35,7 +35,6 @@ module.exports = {
             },
             {
                 test: /\.tsx?$/,
-                use: ['ts-loader', '@babel/preset-typescript'],
                 use: {
                     loader: 'babel-loader',
                     options: {
